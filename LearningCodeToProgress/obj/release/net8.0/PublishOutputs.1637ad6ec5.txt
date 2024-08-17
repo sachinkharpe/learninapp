@@ -1,0 +1,7 @@
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\LearningCodeToProgress.exe
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\appsettings.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\LearningCodeToProgress.dll
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\LearningCodeToProgress.deps.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\LearningCodeToProgress.runtimeconfig.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Release\net8.0\publish\LearningCodeToProgress.pdb

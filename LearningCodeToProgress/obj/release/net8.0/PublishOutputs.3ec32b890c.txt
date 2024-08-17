@@ -1,0 +1,7 @@
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\LearningCodeToProgress.exe
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\appsettings.Development.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\appsettings.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\LearningCodeToProgress.dll
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\LearningCodeToProgress.deps.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\LearningCodeToProgress.runtimeconfig.json
+D:\Education\Udemy Azure\AZ 204 VS Code\LearningCodeToProgress\bin\Plublish\LearningCodeToProgress.pdb

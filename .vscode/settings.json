@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "LearningCodeToProgress.sln",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "LearningCodeToProgress/bin/Release/net8.0/publish"
+}

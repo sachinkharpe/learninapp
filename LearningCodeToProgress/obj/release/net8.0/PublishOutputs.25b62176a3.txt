@@ -1,0 +1,7 @@
+D:\bin\Publish\LearningCodeToProgress.exe
+D:\bin\Publish\appsettings.Development.json
+D:\bin\Publish\appsettings.json
+D:\bin\Publish\LearningCodeToProgress.dll
+D:\bin\Publish\LearningCodeToProgress.deps.json
+D:\bin\Publish\LearningCodeToProgress.runtimeconfig.json
+D:\bin\Publish\LearningCodeToProgress.pdb
